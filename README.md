@@ -30,8 +30,8 @@
 
 ## 🌐 Connect
 - GitHub: [gitongaryan254-hub](https://github.com/gitongaryan254-hub)  
-- LinkedIn: *(add your link here)*  
-- Email: *(optional, if you want to share)*  
+- LinkedIn: Ryan Gitonga 
+- Email: gitongaryan254@gmail.com  
 
 ---
 ✨ *Every commit is a legacy milestone — building secure, authentic, and impactful systems.*
