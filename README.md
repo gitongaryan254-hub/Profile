@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ryan (aka CipherRift)
+# 👋 Hi, I'm Ryan
 
 🎓 Diploma student in **AI & Cybersecurity** at Africa International University, Kenya  
 💻 Passionate about **cryptographic coding**, **Python troubleshooting**, and **workflow optimization**  
