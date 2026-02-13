@@ -34,7 +34,5 @@
 - Email: gitongaryan254@gmail.com  
 
 ---
-✨ *Every commit is a legacy milestone — building secure, authentic, and impactful systems.*
+✨ *Every commit is a legacy milestone — building secure, authentic, and impactful systems.
 
-
-# Profile
